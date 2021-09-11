@@ -16,7 +16,7 @@ Online/Offline Budget Tracker
 
 ## Installation
 
-npm i /npm start
+npm i then npm start
 
 ## Usage
 
