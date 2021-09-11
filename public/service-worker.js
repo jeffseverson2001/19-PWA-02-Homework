@@ -1,0 +1,1 @@
+console.log("At the service-worker.js file.");
