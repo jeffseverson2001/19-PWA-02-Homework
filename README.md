@@ -22,6 +22,8 @@ npm i /npm start
 
 When first loading the page, enter in the name and amount of the transacation and click on either the Add Funds or Subtract Funds buttons at the top of the page.  This will then add it to the list of transactions.
 
+![alt Budget Tracker Page](public/screenImage.jpg)
+
 ## Credits
 
 University of Minnesota Boot Camp:
